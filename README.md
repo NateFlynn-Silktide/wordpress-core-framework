@@ -30,12 +30,13 @@ To install the Framework, you should download the repo to your local machine usi
 After this, you'll need to move the file `nateflynn-wp-core.php` out of the plugin directory and into your `mu-plugins` folder. This handles loading the MU Plugin files directly, as WordPress currently doesn't support loading multi-file MU Plugins.
 
 > **Note**
+> 
 > It's important that this plugin is installed in the `mu-plugins` directory so it's codebase is available before your regular plugins or theme are loaded by WordPress. 
 > 
 > Installing this plugin to the `plugins` directory may lead to features or functionality not being available for other parts of your site that may rely on it.
 ___
 
-## Disclaimer
+## Disclaimer
 
 This project is a work in progress. You're welcome to fork the base project, submit PRs or submit Feature Requests through the Conversations tab in this repo.
 
@@ -51,6 +52,7 @@ We use semantic versioning to denote the current stable version of the project. 
 Development should be done within a versioned branch (ie. `1.x` or `2.x`).
 
 > **You don't need to be a developer to contribute!**
+> 
 > There are bound to be spellign mistakes, mislabeled comments or inconsistent variable names throughout the project. If you spot one feel free to amend it and submit a PR. You'll still be listed as a contributor!
 ___
 
