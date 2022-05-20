@@ -1,0 +1,22 @@
+{
+    "@package": "NateFlynn",
+    "@subpackage": "Core",
+    "@author": "Nate Flynn",
+    "@copyright": "2022 Nate Flynn",
+    "@license": "GPL-3.0-or-later",
+
+    "@wordpress-plugin": "",
+    "Plugin Name": "NateFlynn - Core",
+    "Plugin URI": "https://github.com/nateflynn-silktide/wordpress-core-framework/",
+    "Description": "Sets up base functionality and libraries for use throughout WordPress projects",
+    "Version": "{VERSION}",
+    "Requires at least": "5.9",
+    "Requires PHP": "7.4",
+    "Author": "Nate Flynn",
+    "Author URI": "https://nateflynn.co.uk",
+    "Text Domain": "nateflynn",
+    "Domain Path": "/languages",
+    "License": "GPL v3 or later",
+    "License URI": "http://www.gnu.org/licenses/gpl-3.0.txt",
+    "Update URI": "https://github.com/nateflynn-silktide/wordpress-core-framework/"
+}

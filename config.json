@@ -1,0 +1,30 @@
+{
+    "scripts": {
+        "admin" : [],
+
+        "editor" : [],
+
+        "frontend" : [],
+
+        "blocks" : []
+    },
+
+    "styles": {
+        "admin" : [],
+
+        "editor" : [],
+
+        "frontend" : [],
+
+        "blocks" : []
+    },
+
+    "libraries": [
+        "utils"
+    ],
+
+    "directories": {
+        "libraries": "src/libraries"
+    }
+    
+}
